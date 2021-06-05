@@ -1,10 +1,14 @@
-# Machine Learning Course
+# Machine Learning Portifolio
 
 ## About
 
-This course has been written to assist students with an interest in machine learning and artificial intelligence. It consists of practical tasks based on the Machine Learning (Coursera) course taught by Andrew Ng and theoretical readings available in the PDF, the link of which is below. The course has been produced by the group PET Computação UFRGS, in May 2021.
+This portfolio aims to present small projects aimed at learning the main topics of machine learning.
 
-This course was based on the following classes and courses:
+In addition, a course was written on the themes studied in order to facilitate theoretical learning in the area of AI.
+
+This course has been written to assist students with an interest in ML and AI. It consists of practical tasks based on the Machine Learning (Coursera) course taught by Andrew Ng and theoretical readings available in the PDF, the link of which is below. The course has been produced by the group PET Computação UFRGS, in May 2021.
+
+The knowledge acquired for the development of this portofilio was acquired through the following courses and classes:
 
   1. Machine Learning (Coursera) | Stanford University
   2. Deep Learning Lecture Series 2020 | DeepMind & University College London
@@ -15,10 +19,12 @@ This course was based on the following classes and courses:
   7. CS224n: Natural Language Processing with Deep Learning | Stanford University
   8. CS234: Reinforcement Learning | Stanford University
 
-You can find the PDF of the course at this [link](https://github.com/thiagolermen/ml-course/blob/main/assets/Machine_Learning.pdf).
+You can find the PDF of the course [here](https://github.com/thiagolermen/ml-course/blob/main/assets/Machine_Learning.pdf).
+
+The projects were developed using Python. Some of the projects were developed from scratch, while others were developed using PyTorch.
 
 ## Table Of Contents
-With this course you will learn the basics of
+With the course you will learn the basics of
   1. Supervised learning
   2. Linear regression
   3. Logistic regression
@@ -37,11 +43,15 @@ With this course you will learn the basics of
   16. Deep Q-learning
 
 ## Taks and assigments
-This course provides some didactic resources to put into practice the knowledge obtained from reading the PDF. As tasks, they are available on the following topics:
+The course provides some didactic resources to put into practice the knowledge obtained from reading the PDF. The portfolio covers the following ML topics:
   1. Simple linear regression
   2. Multivariate linear regression
   3. Logistic regression
   4. Multivariate logistic regression
   5. Neural networks
+  6. Convolutional neural networks
+  7. Support vector machines
+  8. Recurrent neural networks
+  9. Generative adversarial networks
 
 The datasets were taken from the machine learning course by professor Andrew Ng (Coursera) and they are available at ```data``` folder.
