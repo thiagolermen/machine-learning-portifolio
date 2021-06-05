@@ -4,7 +4,7 @@
 
 This portfolio aims to present small projects aimed at learning the main topics of machine learning.
 
-In addition, a course was written on the themes studied in order to facilitate theoretical learning in the area of AI.
+In addition, a course has written on the themes studied in order to facilitate theoretical learning in the area of AI.
 
 This course has been written to assist students with an interest in ML and AI. It consists of practical tasks based on the Machine Learning (Coursera) course taught by Andrew Ng and theoretical readings available in the PDF, the link of which is below. The course has been produced by the group PET Computação UFRGS, in May 2021.
 
