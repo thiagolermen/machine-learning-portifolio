@@ -54,4 +54,4 @@ The course provides some didactic resources to put into practice the knowledge o
   8. Recurrent neural networks
   9. Generative adversarial networks
 
-The datasets were taken from the machine learning course by professor Andrew Ng (Coursera) and they are available at ```data``` folder.
+The datasets were taken from the machine learning course by professor Andrew Ng (Coursera) and they are available at ```data``` folder. Others were imported directly from the libraries of the frameworks used.
