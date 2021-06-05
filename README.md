@@ -42,7 +42,7 @@ With the course you will learn the basics of
   15. Monte Carlo search
   16. Deep Q-learning
 
-## Taks and assigments
+## Projects and assignments
 The course provides some didactic resources to put into practice the knowledge obtained from reading the PDF. The portfolio covers the following ML topics:
   1. Simple linear regression
   2. Multivariate linear regression
