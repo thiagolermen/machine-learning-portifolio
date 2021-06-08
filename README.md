@@ -21,7 +21,7 @@ The knowledge acquired for the development of this portofilio was acquired throu
 
 You can find the PDF of the course [here](https://github.com/thiagolermen/ml-course/blob/main/assets/Machine_Learning.pdf).
 
-The projects were developed using Python. Some of the projects were developed from scratch, while others were developed using PyTorch.
+The projects were developed using Python. The projects were developed from scratch or using frameworks as PyTorch and Tensorflow 2.0.
 
 ## Table Of Contents
 With the course you will learn the basics of
