@@ -8,7 +8,7 @@ In addition, a course has written on the themes studied in order to facilitate t
 
 This course has been written to assist students with an interest in ML and AI. It consists of practical tasks based on the Machine Learning (Coursera) course taught by Andrew Ng and theoretical readings available in the PDF, the link of which is below. The course has been produced by the group PET Computação UFRGS, in May 2021.
 
-The knowledge acquired for the development of this portofilio was acquired through the following courses and classes:
+The knowledge for the development of this portofilio was acquired through the following courses and classes:
 
   1. Machine Learning (Coursera) | Stanford University
   2. Deep Learning Lecture Series 2020 | DeepMind & University College London
