@@ -2,15 +2,18 @@
 
 ## About
 
-This portfolio aims to present small projects aimed at learning the main topics of machine learning.
+This portfolio aims to present small projects developed during my ML studies.
 
-In addition, a course has written on the themes studied in order to facilitate theoretical learning in the area of AI.
+The projects cover the most diverse areas of ML that will be described below.
 
-This course has been written to assist students with an interest in ML and AI. It consists of practical tasks based on the Machine Learning (Coursera) course taught by Andrew Ng and theoretical readings available in the PDF, the link of which is below. The course has been produced by the group PET Computação UFRGS, in May 2021.
+Along the way I wrote a course covering these areas and this course can be found at ```materials/Machine_Learning.pdf```. This course has been written to assist students with an interest in ML and AI. This consists of a summary of the subjects studied, which serves as an incentive to research a topic that may be of interest to the student. In addition, each of the projects developed aims to put this knowledge into practice. Some of the projects were based on the Machine Learning (Coursera) course materials taught by Professor Andrew Ng, such as datasets and activity descriptions. The course has been produced by the group PET Computação UFRGS, in May 2021.
 
-The knowledge for the development of this portofilio was acquired through the following courses and classes:
+## Course
+I've writen this course as a fellow in PET Computação UFRGS, in May 2021. 
 
-  1. Machine Learning (Coursera) | Stanford University
+The knowledge for the development of this course was acquired through the following courses and classes:
+
+  1. Machine Learning (Coursera) | Stanford University - Professor Andrew Ng
   2. Deep Learning Lecture Series 2020 | DeepMind & University College London
   3. Reinforcement Learning Course | DeepMind & University College London
   4. CS229: Machine Learning | Stanford University
@@ -19,30 +22,45 @@ The knowledge for the development of this portofilio was acquired through the fo
   7. CS224n: Natural Language Processing with Deep Learning | Stanford University
   8. CS234: Reinforcement Learning | Stanford University
 
-You can find the PDF of the course [here](https://github.com/thiagolermen/ml-course/blob/main/assets/Machine_Learning.pdf).
+You can find the PDF of the course [here](https://github.com/thiagolermen/machine-learning-portifolio/blob/main/materials/Machine_Learning.pdf).
 
-The projects were developed using Python. The projects were developed from scratch or using frameworks as PyTorch and Tensorflow 2.0.
-
-## Table Of Contents
 With the course you will learn the basics of
   1. Supervised learning
   2. Linear regression
   3. Logistic regression
-  4. Neural Networks
-  5. Unupervised learning
-  6. K-Means clustering
-  7. Reinforcement learning
-  8. ML Optimizations
-  9. Convolutional neural networks
-  10. Object detection
-  11. Recurrent neural networks
-  12. Attention
-  13. Transformers
-  14. Generative models
-  15. Monte Carlo search
-  16. Deep Q-learning
+  4. Support vector machines
+  5. K-Neares Neighbors
+  6. K-Means Clustering
+  7. Neural Networks
+  8. Unupervised learning
+  9. K-Means clustering
+  10. Reinforcement learning
+  11. ML Optimizations
+  12. Convolutional neural networks
+  13. Object detection
+  14. Recurrent neural networks
+  15. Attention
+  16. Transformers
+  17. Generative models
+  18. Monte Carlo search
+  19. Deep Q-learning
 
-## Projects and assignments
+## Projects
+The projects were developed in the Python programming language using frameworks such as PyTorch and TensorFlow. Some of the projects were implemented from scratch.
+
+The projects are divided in three sections:
+  1. ML Algorithms
+  2. Architectures
+  3. Projects
+
+In ML Algorithms, several algorithms used in ML were implemented, such as Linear Regression, Logistic Regression, Neural Networks, SVM, KNN, KMeans, Naive Bayes, CNNs, RNNs, Transformers and Object Detection.
+
+In Architectures, the most famous neural network architectures were implemented, such as LeNet, VGG, GoogLeNet, ResNet and EfficientNet.
+
+In Projects were developed several simple projects involving machine learning which serve as a basis for the development of more complex ones.
+
+
+## Table Of Contents
 The course provides some didactic resources to put into practice the knowledge obtained from reading the PDF. The portfolio covers the following ML topics:
   1. Simple linear regression
   2. Multivariate linear regression
