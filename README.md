@@ -9,7 +9,7 @@ The projects cover the most diverse areas of ML that will be described below.
 Along the way I wrote a course covering these areas and this course can be found at ```materials/Machine_Learning.pdf```. This course has been written to assist students with an interest in ML and AI. This consists of a summary of the subjects studied, which serves as an incentive to research a topic that may be of interest to the student. In addition, each of the projects developed aims to put this knowledge into practice. Some of the projects were based on the Machine Learning (Coursera) course materials taught by Professor Andrew Ng, such as datasets and activity descriptions. The course has been produced by the group PET Computação UFRGS, in May 2021.
 
 ## Course
-I've writen this course as a fellow in PET Computação UFRGS, in May 2021. 
+I've written this course as a fellow in PET Computação UFRGS, in May 2021. 
 
 The knowledge for the development of this course was acquired through the following courses and classes:
 
