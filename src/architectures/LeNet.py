@@ -30,5 +30,5 @@ class LeNet(nn.Module):
 
 x = torch.randn(64, 1, 32, 32)
 model = LeNet()
-print(model(x).shape)
+print(f'Output shape: {model(x).shape}')
 print(model)
