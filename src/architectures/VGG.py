@@ -83,7 +83,7 @@ class VGG_net(nn.Module):
 
 
 if __name__ == '__main__':
-  model = VGG_net(in_channels=3, num_classes=1000)
-  print(model)
-  x = torch.randn(3, 3, 224, 224)
-  print(f'Model shape: {model(x).shape}')
+    model = VGG_net(in_channels=3, num_classes=1000)
+    print(model)
+    x = torch.randn(3, 3, 224, 224)
+    print(f'Model shape: {model(x).shape}')
