@@ -4,7 +4,14 @@ import torch.nn as nn
 from torch.nn.modules import conv, padding
 from torch.nn.modules.pooling import MaxPool2d
 
+"""
+Implementation of GoogLeNet architecture
+Szegedy et al., 2014
+(https://arxiv.org/abs/1409.4842)
 
+Code written by: Thiago Sotoriva Lermen
+    2021-06-23 Inital commit
+"""
 class GoogLeNet(nn.Module):
     def __init__(self, in_channels=3, num_classes=1000):
         super(GoogLeNet, self).__init__()

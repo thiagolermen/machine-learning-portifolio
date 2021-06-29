@@ -6,7 +6,7 @@ Implementation of LeNet architecture
 LeCun et al., 1998 
 (http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf)
 
-Code writen by: Thiago Sotoriva Lermen
+Code written by: Thiago Sotoriva Lermen
     2021-06-26 Initial commit
 """
 class LeNet(nn.Module):

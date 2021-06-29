@@ -1,10 +1,14 @@
 import torch
 import torch.nn as nn
 
+"""
+Implementation of AlexNet architecture
+Krizhevsky et al., 2012
+(https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
 
-# AlexNet architecture
-#   Input: 3x224x224
-#   Output: 1000
+Code written by: Thiago Sotoriva Lermen
+    2021-06-22 Initial commit
+"""
 class AlexNet(nn.Module):
     def __init__(self, num_classes=1000):
         super(AlexNet, self).__init__()

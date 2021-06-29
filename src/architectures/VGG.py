@@ -1,7 +1,14 @@
 import torch
 import torch.nn as nn
 
+"""
+Implementation of VGG net (VGG11, VGG13, VGG16, VGG19) architecture
+Simmonyan et al., 2014
+(https://arxiv.org/abs/1409.1556)
 
+Code written by Thiago Sotoriva Lermen
+    2021-06-23 Initial commit
+"""
 VGG_types = {
     "VGG11": [
         64, "M",
