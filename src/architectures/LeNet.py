@@ -1,10 +1,14 @@
 import torch
 import torch.nn as nn
 
+"""
+Implementation of LeNet architecture
+LeCun et al., 1998 
+(http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf)
 
-# LeNet architecture
-#   Input: 1x32x32
-#   Output: 10 classes
+Code writen by: Thiago Sotoriva Lermen
+    2021-06-26 Initial commit
+"""
 class LeNet(nn.Module):
     def __init__(self):
         super(LeNet, self).__init__()
@@ -27,8 +31,8 @@ class LeNet(nn.Module):
         x = self.linear2(x)
         return x
 
-
-x = torch.randn(64, 1, 32, 32)
-model = LeNet()
-print(f'Output shape: {model(x).shape}')
-print(model)
+if __name__ == '__main__':
+    x = torch.randn(64, 1, 32, 32)
+    model = LeNet()
+    print(f'Output shape: {model(x).shape}')
+    print(model)
